@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mrXvpn.com</string>
+    <string name="disconnected_label">&lt;b>MR.X&lt;/b> Disconnected</string>
+    <string name="connected_label">&lt;b>MR.X&lt;/b> Connected</string>
+    <string name="connection_label">&lt;b>MR.X&lt;/b> Connection…</string>
+    <string name="subscription_free_label">Get 7 days free</string>
+    <string name="location_label">LOCATION</string>
+    <string name="default_location">Autoselect</string>
+    <string name="default_error_message">Ошибка подключения к серверу. Попробуйте позже.</string>
+    <string name="login_message">Необходимо войти в Google play account</string>
+    <string name="billing_unavailable_message">Необходимо установить приложение Google Play</string>
+    <string name="vpn_permission_deny_message">Для подключения к VPN необходимо подтвердить разрешение.</string>
+    <string name="update_app_message"><![CDATA[A new version of app in now <font color=#1C87DA>available</font>]]></string>
+    <string name="check_connection_message">Проверьте подключение к интернету.</string>
+</resources>

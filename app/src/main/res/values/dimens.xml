@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- VPN Button -->
+    <dimen name="around_size">48dp</dimen>
+    <dimen name="icon_left_size">111dp</dimen>
+    <dimen name="icon_right_size">111dp</dimen>
+    <dimen name="icon_top_size">108dp</dimen>
+    <dimen name="icon_bottom_size">112dp</dimen>
+    <dimen name="background_size">76dp</dimen>
+    <dimen name="around_connection_left">44dp</dimen>
+    <dimen name="around_connection_right">44dp</dimen>
+    <dimen name="around_connection_top">42dp</dimen>
+    <dimen name="around_connection_bottom">40dp</dimen>
+</resources>

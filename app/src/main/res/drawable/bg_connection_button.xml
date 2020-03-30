@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:bottom="@dimen/background_size"
+        android:drawable="@drawable/ic_connection_on_background"
+        android:left="@dimen/background_size"
+        android:right="@dimen/background_size"
+        android:top="@dimen/background_size" />
+
+    <item
+        android:bottom="@dimen/icon_bottom_size"
+        android:drawable="@drawable/ic_connection_on"
+        android:left="@dimen/icon_left_size"
+        android:right="@dimen/icon_right_size"
+        android:top="@dimen/icon_top_size" />
+</layer-list>
